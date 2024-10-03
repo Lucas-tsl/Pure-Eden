@@ -1,0 +1,6 @@
+@media only screen and (max-width: 768px) {
+  body.post-type-archive-product div.at_product_loop_top_container > a > img {
+    width: auto !important;
+    height: 200px !important;
+  }
+}
